@@ -1,11 +1,11 @@
 {
-    "capmonsterKey": "",
-    "botToken": "",
-    "guildID": "",
+    "capmonsterKey": "2e5e3aca1c8025504f70db1c67e6be0b",
+    "botToken": "MTA5MDUxMzA1MDE3MzQ1MjMzOA.GTVxOF.2Ub-ZPdP4YQYX930eVcM_28O-_WpaJVQQ0gQGg",
+    "guildID": "1086377756255854612",
     "botAdminId": [
-        ""
+        "1090513050173452338"
     ],
     "botWhitelistedId": [
-        ""
+        "1090513050173452338"
     ]
 }
